@@ -133,7 +133,7 @@ nav {
   text-align: center;
  margin: 0 auto;
   font-size: 800;
-margin:8rem 0rem;
+margin:5rem 0rem;
 padding-bottom: 10px !important;
 }
 
@@ -174,9 +174,16 @@ display:none;
 
 .displays{
   margin: 0 auto;
+  color: #666666;
+  font-weight: 300;
 }
 
 .displays img{
   height: 350px;
   width: 250px;
+}
+
+.rating i{
+   color:#e25633;
+   margin: 0.2rem 0rem;
 }
