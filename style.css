@@ -40,7 +40,7 @@ nav i {
 
 .image img {
   height: 100%;
-  width: 500px;
+  width: 30em;
   margin-left: 5px;
   display: flex;
   align-items: center;
@@ -117,7 +117,7 @@ nav {
   align-items: center;
   justify-content: center;
   height: 70vh;
-width: 100%;
+width:
   align-self: center;
   justify-content: space-between;
 }
