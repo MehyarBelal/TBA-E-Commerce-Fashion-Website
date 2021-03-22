@@ -16,6 +16,15 @@ nav {
   justify-content: space-between;
 }
 
+ul li {
+  display: flex;
+  list-style: none;
+  width: 100px;
+}
+
+ul {
+  display: flex;
+}
 .header-box {
   display: flex;
 }
