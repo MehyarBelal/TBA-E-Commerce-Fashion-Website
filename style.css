@@ -187,3 +187,8 @@ display:none;
    color:#e25633;
    margin: 0.2rem 0rem;
 }
+
+.title{
+  text-transform: capitalize;
+  margin: 0.2rem 0rem;
+}
