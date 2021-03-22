@@ -118,3 +118,10 @@ nav {
   align-self: center;
   justify-content: space-between;
 }
+
+.featured {
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+  font-size: 800;
+}
