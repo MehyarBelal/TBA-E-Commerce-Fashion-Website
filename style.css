@@ -105,19 +105,20 @@ nav {
 }
 
 .cat {
-  width: 350px;
-  height: 400px;
-  margin: 20px;
+  width: 300px;
+  height: 390px;
+  
 }
 
 .images-cat {
+ 
   padding: 2em 2em;
   display: flex;
   justify-content: center;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
   height: 70vh;
-width:
+
   align-self: center;
   justify-content: space-between;
 }
