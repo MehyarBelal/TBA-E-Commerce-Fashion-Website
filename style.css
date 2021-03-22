@@ -6,6 +6,7 @@
 
 header {
   height: 100vh;
+  width: 100%;
   background-position: left;
   background-size: cover;
   background: radial-gradient(circle, #ffffff, #ffdddb 500px);
@@ -28,6 +29,7 @@ ul {
 }
 .header-box {
   display: flex;
+  width: 100%;
 }
 
 nav i {
@@ -49,14 +51,14 @@ nav i {
 }
 
 .details-box h1 {
-  font-size: 4rem;
+  font-size: 4em;
   font-weight: 700;
 }
 
 .details-box p {
-  font-size: 1.2rem;
-  line-height: 2rem;
-  padding: 1rem 0;
+  font-size: 1.2em;
+  line-height: 2em;
+  padding: 1em 0;
 }
 
 button {
@@ -109,12 +111,13 @@ nav {
 }
 
 .images-cat {
+  padding: 2em 2em;
   display: flex;
   justify-content: center;
   align-items: center;
   justify-content: center;
   height: 70vh;
-
+width: 100%;
   align-self: center;
   justify-content: space-between;
 }
