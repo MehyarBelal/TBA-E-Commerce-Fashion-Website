@@ -101,3 +101,20 @@ nav {
   color: #e25633;
   padding-right: 6px;
 }
+
+.cat {
+  width: 350px;
+  height: 400px;
+  margin-left: 20px;
+}
+
+.images-cat {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+
+  align-self: center;
+  justify-content: space-between;
+}
