@@ -125,3 +125,15 @@ nav {
   margin-left: 50px;
   font-size: 800;
 }
+
+.line {
+  background-color: #e25633;
+  width: 140px;
+
+  height: 6px;
+  margin: 0 auto;
+}
+
+.feat-content {
+  height: 100vh;
+}
