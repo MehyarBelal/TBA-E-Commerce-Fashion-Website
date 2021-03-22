@@ -172,6 +172,10 @@ display:none;
   margin-right: 10px;
 }
 
+.displays{
+  margin: 0 auto;
+}
+
 .displays img{
   height: 350px;
   width: 250px;
