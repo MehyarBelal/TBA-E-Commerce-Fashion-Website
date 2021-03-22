@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 100vh;
+  background-position: left;
+  background-size: cover;
+  background: radial-gradient(circle, #ffffff, #ffe1de 500px);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-box {
+  display: flex;
+}
+
+.image img {
+  height: 700px;
+  width: 500px;
+  margin-left: 10px;
+}
+
+.details-box {
+  align-self: center;
+}
+
+.details-box h1 {
+  font-size: 4rem;
+  font-weight: 500;
+}
