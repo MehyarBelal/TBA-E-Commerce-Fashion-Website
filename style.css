@@ -49,11 +49,12 @@ ul {
 }
 
 .image img {
-  height: 100%;
-  width: 30em;
+ width: 100%;
+  height: auto;
   
   display: flex;
   align-items: center;
+  
 }
 
 .details-box {
@@ -119,7 +120,7 @@ nav {
   width: 300px;
   height: 390px;
   margin-top: 1rem;
-  margin:-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 .images-cat {
@@ -184,8 +185,8 @@ display:none;
 }
 
 .displays img{
-  height: 350px;
-  width: 250px;
+  width: 100%;
+  height: auto;
 }
 
 .rating i{
@@ -214,3 +215,5 @@ display:none;
 
   transform: translateY(-11px);
 }
+
+
