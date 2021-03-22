@@ -19,7 +19,8 @@ nav {
 ul li {
   display: flex;
   list-style: none;
-  width: 100px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 ul {
@@ -29,10 +30,18 @@ ul {
   display: flex;
 }
 
+nav i {
+  font-size: 1.5em;
+  display: flex;
+  align-items: center;
+}
+
 .image img {
   height: 700px;
   width: 500px;
   margin-left: 5px;
+  display: flex;
+  align-items: center;
 }
 
 .details-box {
@@ -41,7 +50,13 @@ ul {
 
 .details-box h1 {
   font-size: 4rem;
-  font-weight: 500;
+  font-weight: 700;
+}
+
+.details-box p {
+  font-size: 1.2rem;
+  line-height: 2rem;
+  padding: 1rem 0;
 }
 
 button {
