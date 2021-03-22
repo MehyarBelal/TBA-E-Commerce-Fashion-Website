@@ -46,7 +46,7 @@ ul {
 .image img {
   height: 100%;
   width: 30em;
-  margin-left: 5px;
+  
   display: flex;
   align-items: center;
 }
@@ -102,6 +102,7 @@ nav {
   font-weight: 800;
   font-size: 1.2rem;
   text-transform: uppercase;
+  
 }
 
 .orange {
@@ -117,28 +118,28 @@ nav {
 }
 
 .images-cat {
-margin: 0 auto;
+  margin:5rem 0rem;
   display: flex;
-  justify-content: center;
+ 
   align-items: center;
   justify-content: space-evenly;
 
 
   align-self: center;
-  justify-content: space-between;
+  
 }
 
 .featured {
   text-align: center;
  margin: 0 auto;
   font-size: 800;
-
+margin:8rem 0rem;
 padding-bottom: 10px !important;
 }
 
 .featured:after{
   content:' ';
-  width:250px;
+  width:120px;
 
   display:block;
   border:2px solid #e25633;
@@ -165,7 +166,8 @@ display:none;
  }
 }
 
-.navbar-nav{
-  margin-left: 17rem !important;
-}
 
+.navbar-brand
+{
+  margin-right: 10px;
+}
