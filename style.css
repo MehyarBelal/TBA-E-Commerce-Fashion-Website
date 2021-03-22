@@ -90,9 +90,14 @@ nav {
 .logo {
   display: flex;
   align-items: center;
-  padding: 0.2rem 0.6rem;
-  border: 2px solid black;
+  padding: 0.2rem 0.5rem;
+  border: 3px solid black;
   font-weight: 800;
   font-size: 1.2rem;
   text-transform: uppercase;
+}
+
+.orange {
+  color: #e25633;
+  padding-right: 6px;
 }
