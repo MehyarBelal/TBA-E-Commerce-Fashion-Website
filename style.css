@@ -32,7 +32,7 @@ ul {
   width: 100%;
 }
 
-nav i {
+.navbar i {
   font-size: 1.5em;
   display: flex;
   align-items: center;
@@ -164,3 +164,8 @@ display:none;
 display:none;
  }
 }
+
+.navbar-nav{
+  margin-left: 17rem !important;
+}
+
