@@ -197,3 +197,20 @@ display:none;
   text-transform: capitalize;
   margin: 0.2rem 0rem;
 }
+
+.cards {
+  transition: 0.3s  ease-in-out all;
+}
+.cards:hover{
+
+  transform: translateY(-11px);
+}
+
+
+.cat {
+  transition: 0.3s  ease-in-out all;
+}
+.cat:hover{
+
+  transform: translateY(-11px);
+}
