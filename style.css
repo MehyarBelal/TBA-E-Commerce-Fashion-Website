@@ -228,7 +228,28 @@ nav {
   width: 100%;
   
 }
+.thang{
+  height:100vh;
+  display:flex;
+  
+}
 
 .rate-section{
   display:flex;
+  height:100vh;
+  justify-content: center;
+  align-items: center;
+  
+}
+.ratings{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.fa-quote-left{
+  color:#e25633;
+  font-size: 2.2rem;
 }
