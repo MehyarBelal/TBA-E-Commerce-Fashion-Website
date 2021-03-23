@@ -207,3 +207,19 @@ nav {
 .cat:hover {
   transform: translateY(-11px);
 }
+
+.right {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.left {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.left img {
+  height: 30rem;
+  width: 70%;
+}
