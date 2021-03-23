@@ -17,6 +17,9 @@ header {
   background: radial-gradient(circle, #ffffff, #ffdddb 500px);
 }
 
+.section {
+  background: radial-gradient(circle, #ffffff, #ffdddb 500px);
+}
 nav {
   display: flex;
   justify-content: space-between;
