@@ -214,6 +214,10 @@ nav {
   flex-direction: column;
 }
 
+.section {
+  padding: 3rem 15rem;
+}
+
 .left {
   display: flex;
   justify-content: flex-end;
