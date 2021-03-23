@@ -74,7 +74,7 @@ ul {
 }
 
 button {
-  background-color: #e25633;
+  background-color: #FF6B42;;
   border-radius: 20px;
   color: white;
   outline: none;
@@ -114,7 +114,7 @@ nav {
 }
 
 .orange {
-  color: #e25633;
+  color: #FF6B42;;
   padding-right: 6px;
 }
 
@@ -145,7 +145,7 @@ nav {
   width: 120px;
 
   display: block;
-  border: 2px solid #e25633;
+  border: 2px solid #FF6B42;;
   margin: 0 auto;
 }
 
@@ -184,7 +184,7 @@ nav {
 }
 
 .rating i {
-  color: #e25633;
+  color: #FF6B42;
   margin: 0.2rem 0rem;
 }
 
