@@ -74,7 +74,7 @@ ul {
 }
 
 button {
-  background-color: #FF6B42;;
+  background-color: #ff6b42;
   border-radius: 20px;
   color: white;
   outline: none;
@@ -114,7 +114,7 @@ nav {
 }
 
 .orange {
-  color: #FF6B42;;
+  color: #ff6b42;
   padding-right: 6px;
 }
 
@@ -145,7 +145,7 @@ nav {
   width: 120px;
 
   display: block;
-  border: 2px solid #FF6B42;;
+  border: 2px solid #ff6b42;
   margin: 0 auto;
 }
 
@@ -184,7 +184,7 @@ nav {
 }
 
 .rating i {
-  color: #FF6B42;
+  color: #ff6b42;
   margin: 0.2rem 0rem;
 }
 
@@ -226,34 +226,36 @@ nav {
 .left img {
   height: auto;
   width: 100%;
-  
 }
-.thang{
-  height:100vh;
-  display:flex;
-  
+.thang {
+  height: 100vh;
+  display: flex;
 }
 
-.rate-section{
-  display:flex;
-  height:100vh;
+.rate-section {
+  display: flex;
+  height: 100vh;
   justify-content: center;
   align-items: center;
-  
 }
-.ratings{
-  display:flex;
+.ratings {
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
 }
 
-.fa-quote-left{
-  color:#FF6B42;
+.fa-quote-left {
+  color: #ff6b42;
   font-size: 2.2rem;
 }
 
 .ratings i {
-  color:#FF6B42;
+  color: #ff6b42;
+}
+
+footer {
+  height: 30vh;
+  background-color: black;
 }
