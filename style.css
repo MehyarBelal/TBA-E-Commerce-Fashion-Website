@@ -229,6 +229,7 @@ nav {
 }
 .thang {
   display: flex;
+  padding: 10em 5em;
 }
 
 .rate-section {
