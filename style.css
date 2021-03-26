@@ -228,16 +228,15 @@ nav {
   width: 100%;
 }
 .thang {
-  display: flex;
-  padding: 10em 5em;
+  padding-top: 5em;
+  padding-bottom: 5em;
 }
 
 .rate-section {
   display: flex;
-  height: 100%;
+
   justify-content: center;
   align-items: center;
-  width: 100%;
 }
 .ratings {
   display: flex;
@@ -245,9 +244,10 @@ nav {
   justify-content: center;
   align-items: center;
   text-align: center;
-  height: 37rem;
-  padding: 2rem 4rem;
-  margin-left: 1rem;
+  margin-bottom: 2rem;
+
+  width: 100%;
+  padding: 1em 1em;
 }
 
 .fa-quote-left {
