@@ -156,6 +156,41 @@ nav {
 .feat-content {
   height: 100vh;
 }
+/* Buy Now Text */
+/* Start */
+.buy:hover .buyNow  {
+  visibility: visible;
+  opacity: 1;
+  padding-top: 5px;
+  cursor: pointer;
+  color: #ff6b42;
+  border-bottom: #000;
+  transition: .5s;
+
+  padding: 10px;
+}
+.buy:hover img{
+  opacity: 0.3;
+  transition: .5s;
+}
+.buyNow{
+  position: absolute;
+  top: 33%;
+  font-size: 2em;
+  visibility: hidden;
+  opacity: 0;
+}
+/* End */
+
+/* Responsive for Buy Now text */
+@media screen and (max-width: 992px) and (min-width: 768px)
+{
+  .buyNow{
+    font-size: 1.5em;  
+  }
+}
+
+
 @media only screen and (max-width: 375px) {
   .image {
     display: none;
