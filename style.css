@@ -135,16 +135,18 @@ nav {
 
 .featured {
   text-align: center;
-  margin: 0 auto;
+  line-height: 1.5em;
+  margin: 20px;
   font-size: 800;
   margin: 5rem 0rem;
   padding-bottom: 10px !important;
+  margin-bottom: 10px !important;
 }
 
 .featured:after {
   content: " ";
   width: 120px;
-
+  margin-top: 10px;
   display: block;
   border: 2px solid #ff6b42;
   margin: 0 auto;
