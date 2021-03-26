@@ -268,3 +268,9 @@ footer {
   height: 15rem;
   background-color: black;
 }
+
+.row-2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px auto 50px;
+}
