@@ -299,3 +299,8 @@ select:focus {
   width: 40px;
   text-align: center;
 }
+
+.page-btn span:hover {
+  background-color: #ff523b;
+  color: #fff;
+}
