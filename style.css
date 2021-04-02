@@ -281,6 +281,11 @@ select {
   padding: 5px;
 }
 
+.text-black {
+  color: #000 !important;
+  font-weight: 700 !important;
+}
+
 select:focus {
   outline: none;
 }
