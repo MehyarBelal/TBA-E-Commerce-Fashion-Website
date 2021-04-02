@@ -338,3 +338,7 @@ select:focus {
   background-color: #ff523b;
   color: #fff;
 }
+
+.ident {
+  color: #ff523b;
+}
