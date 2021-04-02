@@ -281,6 +281,30 @@ select {
   padding: 5px;
 }
 
+.drop {
+  display: block;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.input {
+  width: 50px;
+  height: 40px;
+  padding-left: 10px;
+  font-size: 20px;
+  margin-right: 10px;
+  border: 1px solid #ff523b !important;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.price {
+  margin: 20px 0;
+  font-size: 32px;
+  font-weight: bold;
+}
 .text-black {
   color: #000 !important;
   font-weight: 700 !important;
