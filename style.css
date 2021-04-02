@@ -305,7 +305,7 @@ select {
   outline: none;
 }
 
-.price {
+.prices {
   margin: 20px 0;
   font-size: 32px;
   font-weight: bold;
@@ -341,4 +341,15 @@ select:focus {
 
 .ident {
   color: #ff523b;
+}
+
+.space-around {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.space-around h2 {
+  color: #000 !important;
+  font-weight: 700 !important;
 }
