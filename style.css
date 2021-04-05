@@ -375,3 +375,18 @@ th {
   background: #ff523b;
   font-weight: normal;
 }
+
+td {
+  padding: 10px 5px;
+}
+
+td input {
+  width: 40px;
+  padding: 5px;
+
+  height: 40px;
+}
+
+td a {
+  color: #ff523b;
+}
