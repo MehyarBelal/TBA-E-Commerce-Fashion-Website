@@ -353,3 +353,25 @@ select:focus {
   color: #000 !important;
   font-weight: 700 !important;
 }
+
+.cart-page {
+  margin: 80px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cart-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+th {
+  text-align: left;
+  padding: 5px;
+  color: #ffff;
+  background: #ff523b;
+  font-weight: normal;
+}
