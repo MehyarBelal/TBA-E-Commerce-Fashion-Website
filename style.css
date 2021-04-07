@@ -415,3 +415,8 @@ td:last-child {
 th:last-child {
   text-align: right;
 }
+
+
+.white-border{
+  border: 3px solid white;
+}
