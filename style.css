@@ -266,7 +266,7 @@ nav {
 
 footer {
   color: white;
-  height: 15rem;
+
   background-color: black;
 }
 
@@ -419,4 +419,15 @@ th:last-child {
 
 .white-border{
   border: 3px solid white;
+}
+
+.footer-section h4{
+  margin-bottom: .6rem;
+}
+.footer-section{
+  displaY:flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
 }
