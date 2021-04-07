@@ -416,11 +416,49 @@ th:last-child {
   text-align: right;
 }
 
+.apps{
+  display:flex;
+}
 
+.app i{
+  float: left;
+  font-size: 2.5rem;
+  line-height: 1;
+  padding-left: .5rem;
+ 
+}
+
+
+
+.app{
+  background-color:  #ffffff;
+  height: 3.5rem;
+  margin-left: 10px;
+  border-radius: 10px;
+  width: 140px;
+  font-size: .5em;
+  padding: 0.2rem 0.4em;
+  color: black;
+
+}
+
+.app h3{
+  font-size: 1rem;
+ 
+}
 .white-border{
   border: 3px solid white;
 }
 
+
+.app h3{
+  float: right;
+  font-weight: 800;
+}
+
+.app p {
+  float: right;
+}
 .footer-section h5{
   margin-bottom: .6rem;
 }
