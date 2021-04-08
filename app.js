@@ -11,3 +11,7 @@ products.forEach(function (item) {
     alert(product_Name);
   });
 });
+
+$(".cart-btn").click(function () {
+  location.href = "Cart.html";
+});
